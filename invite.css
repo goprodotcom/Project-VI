@@ -1,13 +1,20 @@
 body
 {
-	max-width: 1920px;
+	width: 1920px;
 	margin: auto;
 }
 #one
 {
-	font-family: Comic Sans;
+	font-family: Comic Sans MS;
+	text-align: center;
 }
 h1
 {
-	font-family: Comic Sans;
+	font-family: Comic Sans MS;
+	font-size: 60px;
+}
+p
+{
+	font-family: Comic Sans MS;
+	font-size: 40px;
 }
