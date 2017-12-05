@@ -18,3 +18,36 @@ p
 	font-family: Comic Sans MS;
 	font-size: 40px;
 }
+#two
+{
+	font-family: Comic Sans MS;
+	font-size: 35px;
+	text-align: center;
+}
+#three
+{
+	font-family: Comic Sans MS;
+	position: absolute;
+	bottom: -1510px;
+	width: 700px;
+	height: 700px;
+	background-color: white;
+	margin-left: 550px;
+	opacity: 0.5;
+}
+p
+{
+	text-align: center;
+	font-size: 30px;
+}
+#footer
+{
+	height: 50px;
+	background-color: #ffcccc;
+	position: relative;
+
+}
+p
+{
+	padding-right: 20px;
+}
